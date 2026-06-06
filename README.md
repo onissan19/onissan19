@@ -1,54 +1,34 @@
 # Samuel AKAKPO
-### **Full Stack & IoT Software Engineer**
 
-<p align="left">
-  <a href="mailto:kakakpo.ir2026@esaip.org">
-    <img src="https://img.shields.io/badge/Email-kakakpo.ir2026%40esaip.org-blue?style=flat-square&logo=gmail" alt="Email" />
-  </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Samuel_AKAKPO-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" />
-  </a>
-</p>
+Je suis étudiant en dernière année d'ingénierie informatique et réseaux à l'ESAIP. Mon profil se situe à l'intersection du développement Full Stack et de l'ingénierie IoT : je conçois des architectures logicielles (web et mobiles) tout en intégrant la logique métier sur des systèmes embarqués et des protocoles connectés.
 
-Dernière année d'ingénierie informatique et réseaux à l'ESAIP[cite: 1]. Développeur spécialisé dans la conception d'architectures logicielles, le génie logiciel embarqué et le développement d'applications web et mobiles[cite: 1].
+[Email](mailto:kakakpo.ir2026@esaip.org) / [LinkedIn](https://linkedin.com)
 
 ---
 
-## 🛠️ Stack Technique
+### Technologies
 
-| Domaine | Technologies & Outils |
-| :--- | :--- |
-| **Languages & Runtimes** | `TypeScript`[cite: 1] `JavaScript`[cite: 1] `Python`[cite: 1] `C / C++`[cite: 1] `Java`[cite: 1] `PHP`[cite: 1] |
-| **Back-end & Architecture** | `Node.js`[cite: 1] `Express.js`[cite: 1] `Symfony`[cite: 1] `Laravel`[cite: 1] `APIs REST`[cite: 1] `GraphQL`[cite: 1] |
-| **Frontend & Mobile** | `React Native`[cite: 1] `Expo`[cite: 1] `React.js`[cite: 1] `SQL`[cite: 1] |
-| **Infrastructure & IoT** | `Docker`[cite: 1] `PostgreSQL`[cite: 1] `MongoDB`[cite: 1] `OpenCV`[cite: 1] `Raspberry Pi`[cite: 1] |
+*   **Languages & Back-end :** TypeScript, JavaScript, Python, C/C++, Java, PHP, Node.js, Express.js, Symfony, Laravel, APIs REST & GraphQL
+*   **Front-end & Mobile :** React Native, Expo, React.js
+*   **IoT & Infra :** Docker, PostgreSQL, MongoDB, OpenCV, Raspberry Pi
 
 ---
 
-## 📂 Réalisations & Projets
+### Projets
 
-### 🔑 SmartGate — Porte connectée
-> *Projet cyber-physique de domotique résidentielle securisée.*
-*   **Partenariat :** Solution développée dans le cadre d'un échange entre l'ESAIP et l'Université Polytechnique de Valence[cite: 1].
-*   **Hardware :** Prototype fonctionnel basé sur **Raspberry Pi**[cite: 1] configuré avec lecteur RFID, capteurs de présence et caméra de surveillance[cite: 1].
-*   **Software :** Développement de l'application mobile Android pour le pilotage à distance et le suivi de l'état d'accès en temps réel[cite: 1].
+#### SmartGate — Prototype de domotique résidentielle
+Projet réalisé en partenariat avec l'Université Polytechnique de Valence. L'objectif était de concevoir un système complet de gestion d'accès sécurisé.
+*   Conception d'un prototype fonctionnel sur Raspberry Pi exploitant un lecteur RFID, des capteurs de présence et une caméra de surveillance.
+*   Développement d'une application mobile Android permettant le contrôle du portail à distance et l'affichage des flux d'état en temps réel.
 
-<br />
+#### Bras robotisé intelligent — Vision et commande vocale
+Développement d'un système cyber-physique combinant de l'intelligence artificielle et du contrôle mobile.
+*   Intégration des modèles IA Whisper (via l'écosystème Hugging Face) pour piloter le bras via des commandes vocales directes.
+*   Implémentation d'algorithmes OpenCV sur Raspberry Pi pour la détection et le suivi d'objets en temps réel.
+*   Création d'une application de supervision et de retour vidéo en temps réel avec React Native.
 
-### 🤖 Bras Robotisé Intelligent — IoT & IA
-> *Système d'automatisation industrielle guidé par la voix et la vision.*
-*   **Intelligence Artificielle :** Intégration de modèles d'analyse vocale **Whisper** (via Hugging Face API) pour l'exécution de commandes[cite: 1].
-*   **Computer Vision :** Implémentation d'algorithmes de détection d'objets en temps réel via **OpenCV** s'exécutant sur Raspberry Pi[cite: 1].
-*   **Interface :** Application mobile **React Native** dédiée au contrôle et à l'affichage du flux vidéo de retour[cite: 1].
+#### Application mobile de suivi thérapeutique
+*   Architecture et développement d'une application mobile sur-mesure dédiée au secteur de l'e-santé pour l'accompagnement et le suivi des patients.
 
-<br />
-
-### 📱 Application Mobile de Suivi Thérapeutique
-> *Solution applicative orientée e-santé.*
-*   **Conception :** Architecture et développement complet d'une application mobile sur-mesure dédiée à l'accompagnement des patients et au suivi thérapeutique[cite: 1].
-
-<br />
-
-### 💻 Application Web de Gestion de Stock
-> *Système robuste de suivi logistique.*
-*   **Architecture :** Conception d'une interface web optimisée dédiée à la persistance des données, à la gestion des flux de marchandises et au suivi des stocks en temps réel[cite: 1].
+#### Application web de gestion de stock
+*   Conception d'un outil de gestion logistique axé sur la persistance des données, la traçabilité des marchandises et la mise à jour des flux de stocks.
